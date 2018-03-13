@@ -12,4 +12,4 @@ http.createServer(function (request,respone) {
 }).listen(8081);
 
 //In thong bao
-console.log('Server dang chay tai http://127.0.0.1.8081/');
+console.log('Server dang chay tai http://127.0.0.1:8081/');
